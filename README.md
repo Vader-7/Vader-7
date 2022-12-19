@@ -19,7 +19,8 @@
 <br>
 <p align="center">
 
-![ezcv logo](https://raw.githubusercontent.com/Vader-7/Vader-7/main/.github/563d6b3cfc1947b6ab8c8277d8269cde.png)
+![ezcv logo](https://r![563d6b3cfc1947b6ab8c8277d8269cde](https://user-images.githubusercontent.com/66812754/208491907-29bdab39-83a7-417c-92aa-ce30fe8c901d.png)
+aw.githubusercontent.com/Vader-7/Vader-7/main/.github/563d6b3cfc1947b6ab8c8277d8269cde.png)
 
 </p>
 <!---
