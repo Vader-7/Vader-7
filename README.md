@@ -12,7 +12,7 @@
 </h3>
 <p align="center">
     <a href="https://vader-7.github.io/Ty-Works/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Vader-7/Vader-7/main/27711934912-2.png" alt="Ty-Works" width="200px" height="200px">
+        <img src="https://raw.githubusercontent.com/Vader-7/Vader-7/main/27711934912-2.png" alt="Ty-Works" width="150px" height="150px">
     </a>
 </p>
 
