@@ -1,11 +1,11 @@
 <h1 style="text-align: start;">
     <samp> Hi I'm Tyler </samp>
 </h1>
-<h4 style="text-align: start;">
+<p align="center">
     <samp>
         I am a computer science student with a passion for web development. I am a full stack developer and specialize in using the MERN and MEAN stack to build dynamic and interactive web applications.
     </samp>
- </h4>
+ </p>
 &nbsp;
 <p align="start">
     <a href="https://vader-7.github.io/Ty-Works/" target="_blank">
