@@ -6,7 +6,6 @@
         I am a computer science student with a passion for web development. I specialize in using the MERN and MEAN stack to build dynamic and interactive web applications.
     </samp>
  </p>
-
 <p align="start">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -16,10 +15,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 </p>
-<br>
 <p align="start">
-    <a href="https://vader-7.github.io/Ty-Works/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/66812754/208491947-62a68bf4-d6d7-45f6-b9b9-218e67302ee5.png" alt="Ty-Works" width="200px" height="200px">
+    <a href="https://vader-7.github.io/Ty-Works/" target="">
+        <img src="https://user-images.githubusercontent.com/66812754/208491947-62a68bf4-d6d7-45f6-b9b9-218e67302ee5.png" alt="Ty-Works" width="100px" height="100px">
     </a>
 </p>
 <!---
