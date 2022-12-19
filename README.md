@@ -19,8 +19,7 @@
 <br>
 <p align="center">
 
-
-![ezcv logo](https://raw.githubusercontent.com/vader-7/vader-7/main/.github/563d6b3cfc1947b6ab8c8277d8269cde.png)
+![ezcv logo](https://raw.githubusercontent.com/Vader-7/Vader-7/main/.github/563d6b3cfc1947b6ab8c8277d8269cde.png)
 
 </p>
 <!---
