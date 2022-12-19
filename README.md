@@ -19,7 +19,7 @@
 <br>
 <p align="center">
     <a href="https://vader-7.github.io/Ty-Works/">
-        <img src="https://user-images.githubusercontent.com/66812754/208491947-62a68bf4-d6d7-45f6-b9b9-218e67302ee5.png" alt="Ty-Works" width="100%" height="200px">
+        <img src="https://user-images.githubusercontent.com/66812754/208491947-62a68bf4-d6d7-45f6-b9b9-218e67302ee5.png" alt="Ty-Works" width="200px" height="200px">
     </a>
 ![563d6b3cfc1947b6ab8c8277d8269cde](https://user-images.githubusercontent.com/66812754/208491947-62a68bf4-d6d7-45f6-b9b9-218e67302ee5.png)
     alt="Ty-Works" width="100%" height="auto">
