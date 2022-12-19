@@ -21,7 +21,7 @@
 
 <a href="https://vader-7.github.io/Ty-Works/">
 
-![logo](https://raw.githubusercontent.com/vader-7/vader-7/main/.github/563d6b3cfc1947b6ab8c8277d8269cde.png" alt="Portfolio)
+![ezcv logo](https://raw.githubusercontent.com/vader-7/vader-7/main/.github/563d6b3cfc1947b6ab8c8277d8269cde.png)
 
 </a>
 </p>
