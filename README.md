@@ -9,10 +9,9 @@
 &nbsp;
 <p align="start">
     <a href="https://vader-7.github.io/Ty-Works/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/66812754/208494371-d3ab6b5b-2bef-492a-b7a8-0841bb2d168d.png" alt="Ty-Works" width="100px" height="100px">
+        <img src="https://user-images.githubusercontent.com/66812754/208498661-b40ac961-68d8-47bc-b2d3-54d09d0fb462.png" alt="Ty-Works" width="100px" height="100px">
     </a>
-</p>![c1f17925d0434b6e86ad5d4a8c13f1f2](https://user-images.githubusercontent.com/66812754/208498661-b40ac961-68d8-47bc-b2d3-54d09d0fb462.png)
-
+</p>
 <!---
 Vader-7/Vader-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
