@@ -16,7 +16,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 </p>
 <p align="start">
-    <a href="https://vader-7.github.io/Ty-Works/" target="">
+    <a href="https://vader-7.github.io/Ty-Works/" target="_blank">
         <img src="https://user-images.githubusercontent.com/66812754/208491947-62a68bf4-d6d7-45f6-b9b9-218e67302ee5.png" alt="Ty-Works" width="100px" height="100px">
     </a>
 </p>
