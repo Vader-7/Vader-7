@@ -11,6 +11,9 @@
     <a href="https://vader-7.github.io/Ty-Works/" target="_blank">
         <img src="https://user-images.githubusercontent.com/66812754/208498661-b40ac961-68d8-47bc-b2d3-54d09d0fb462.png" alt="Ty-Works" width="150px" height="150px">
     </a>
+    
+    ![c1f17925d0434b6e86ad5d4a8c13f1f2](https://user-images.githubusercontent.com/66812754/208532140-e45ab82c-88e9-46a8-b150-34908b780c1b.png)
+
 </p>
 <!---
 Vader-7/Vader-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
