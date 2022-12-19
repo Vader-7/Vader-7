@@ -9,7 +9,7 @@
 &nbsp;
 <p align="start">
     <a href="https://vader-7.github.io/Ty-Works/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/66812754/208498661-b40ac961-68d8-47bc-b2d3-54d09d0fb462.png" alt="Ty-Works" width="200px" height="200px">
+        <img src="https://user-images.githubusercontent.com/66812754/208498661-b40ac961-68d8-47bc-b2d3-54d09d0fb462.png" alt="Ty-Works" width="150px" height="150px">
     </a>
 </p>
 <!---
