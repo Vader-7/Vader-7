@@ -3,7 +3,7 @@
 </h1>
 <p style="text-align: start;">
     <samp>
-        I am a computer science student with a passion for web development. I specialize in using the MERN and MEAN stack to build dynamic and interactive web applications.
+        I am a computer science student with a passion for web development. I am a full stack developer and specialize in using the MERN and MEAN stack to build dynamic and interactive web applications.
     </samp>
  </p>
 <p align="start">
