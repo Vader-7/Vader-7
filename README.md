@@ -7,8 +7,8 @@
     </samp>
  </p>
 <p align="start">
-<h2 style="text-align: start;">
-    <samp> Things I know </samp>
+<h2 style="text-align: center;">
+    <samp> Things I Know </samp>
 </h2>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -18,8 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 </p>
-<h2 style="text-align: start;">
-    <samp> Portafolio </samp>
+<h2 style="text-align: center;">
+    <samp> My Portafolio </samp>
 </h2>
 <p align="start">
     <a href="https://vader-7.github.io/Ty-Works/" target="_blank">
