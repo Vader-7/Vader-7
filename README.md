@@ -20,7 +20,7 @@
 <p align="center">
 
 <a href="https://vader-7.github.io/Ty-Works/">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+  <img src=https://github.com/Vader-7/Vader-7/blob/main/563d6b3cfc1947b6ab8c8277d8269cde.png" alt="Portfolio">
 </a>
 </p>
 <!---
