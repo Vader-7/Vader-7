@@ -20,7 +20,9 @@
 <p align="center">
 
 <a href="https://vader-7.github.io/Ty-Works/">
-  <img src="https://raw.githubusercontent.com/vader-7/vader-7/main/.github/563d6b3cfc1947b6ab8c8277d8269cde.png" alt="Portfolio">
+
+![logo](https://raw.githubusercontent.com/vader-7/vader-7/main/.github/563d6b3cfc1947b6ab8c8277d8269cde.png" alt="Portfolio)
+
 </a>
 </p>
 <!---
