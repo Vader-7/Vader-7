@@ -11,7 +11,7 @@
 </h3>
 <p align="center">
     <a href="https://vader-7.github.io/Ty-Works/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Vader-7/Vader-7/main/https://user-images.githubusercontent.com/66812754/208570278-d1dd273d-b46f-4fa3-8eb2-3e7fb48221f7.png" alt="Ty-Works" width="150px" height="150px">
+        <img src="https://raw.githubusercontent.com/Vader-7/Vader-7/main/208570278-d1dd273d-b46f-4fa3-8eb2-3e7fb48221f7.png" alt="Ty-Works" width="150px" height="150px">
     </a>
 </p>
 <!---
