@@ -9,8 +9,8 @@
 &nbsp;
 <p align="center">
     <a href="https://vader-7.github.io/Ty-Works/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/66812754/208571338-30c25ae2-a7ce-4800-803c-792eded80f1a.png" alt="Ty-Works" width="100px" height="100px">
-    </a>![globe](https://user-images.githubusercontent.com/66812754/208713388-aff1c2ca-eee3-4c98-bb3e-24c3bdbcb863.png)
+        <img src="https://user-images.githubusercontent.com/66812754/208713388-aff1c2ca-eee3-4c98-bb3e-24c3bdbcb863.png" alt="Ty-Works" width="100px" height="100px">
+    </a>
 
 </p>
 <!---
