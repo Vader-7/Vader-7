@@ -10,7 +10,7 @@
     <a href="https://vader-7.github.io/Ty-Works/" target="_blank">
         <img src="https://user-images.githubusercontent.com/66812754/208713388-aff1c2ca-eee3-4c98-bb3e-24c3bdbcb863.png" alt="Ty-Works" width="50px" height="50px">
     </a>
-        <samp> Portafolio </samp>
+        <samp align="center"> Portafolio </samp>
 </p>
 <!---
 Vader-7/Vader-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
