@@ -1,12 +1,12 @@
-<h1 align="center">
+<h1 align="start">
     <samp> Hi I'm Tyler </samp>
 </h1>
-<p align="center">
+<p align="start">
     <samp>
         I am a computer science student with a passion for web development. I have experience in PL/SQL and Oracle Cloud, and I am proficient in using the MERN, MEAN stack and Django to build dynamic and interactive web applications.
     </samp>
  </p>
-<p align="center">
+<p align="start">
     <a href="https://vader-7.github.io/Ty-Works/" target="_blank">
         <img src="https://user-images.githubusercontent.com/66812754/208713388-aff1c2ca-eee3-4c98-bb3e-24c3bdbcb863.png" alt="Ty-Works" width="50px" height="50px">
     </a>
