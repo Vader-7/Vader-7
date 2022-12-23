@@ -1,4 +1,4 @@
-<h1 align="start">
+<h1 align="center">
     <samp> Hi I'm Tyler </samp>
 </h1>
 <p align="start">
