@@ -1,7 +1,7 @@
-<h1 align="start">
+<h1 align="end">
     <samp> Hi I'm Tyler </samp>
 </h1>
-<p align="start">
+<p align="end">
     <samp>
         I am a computer science student with a passion for web development. I have experience in PL/SQL and Oracle Cloud, and I am proficient in using the MERN, MEAN stack and Django to build dynamic and interactive web applications.
     </samp>
