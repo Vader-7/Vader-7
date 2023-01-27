@@ -1,10 +1,8 @@
 <h1 align="center">
-    <samp> Hi I'm Tyler </samp>
+     Hi I'm Tyler
 </h1>
 <p align="center">
-    <samp>
         I have experience in PL/SQL and Oracle Cloud, and I am proficient in using the MERN, MEAN stack and Django to build dynamic and interactive web applications.
-    </samp>
  </p>
 <!---
 Vader-7/Vader-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
