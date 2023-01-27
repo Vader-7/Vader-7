@@ -1,6 +1,3 @@
-<h1 align="center">
-     Hi I'm Tyler
-</h1>
 <p align="center">
         I have experience in PL/SQL and Oracle Cloud, and I am proficient in using the MERN, MEAN stack and Django to build dynamic and interactive web applications.
  </p>
